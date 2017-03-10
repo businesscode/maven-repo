@@ -2,12 +2,12 @@
 <metadata>
   <groupId>de.businesscode.bcdui</groupId>
   <artifactId>bcd-ui-theme-bcd</artifactId>
+  <version>5.0.1-SNAPSHOT</version>
   <versioning>
-    <release>5.0.0</release>
-    <versions>
-      <version>5.0.0</version>
-      <version>5.0.1-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20170310.131904</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20170310131904</lastUpdated>
   </versioning>
 </metadata>
