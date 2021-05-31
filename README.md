@@ -1,13 +1,13 @@
-# BCD-UI <span style="font-size: 30%">5.5.0 published at 2021-05-31 18:37:17</span>
+# BCD-UI
 
-BCD-UI is a full-stack framework for building enterprise applications with web technologies.
+BCD-UI is a modern full-stack framework for building enterprise applications with web technologies.
 <p/>
-For more information have a look at 
+For more information please have a look at 
 
+- GitHub page https://github.com/businesscode/BCD-UI
 - Documentation https://businesscode.github.io/BCD-UI-Docu
-- Project page https://github.com/businesscode/BCD-UI
 
-### Usage with gradle 
+### Using with gradle 
 
 ```groovy
 dependencies {
@@ -27,7 +27,7 @@ When using jsp, please also add
 implementation 'de.businesscode.bcdui:bcd-ui-jsptaglib:5.5.0-SNAPSHOT'
 ```
 
-### Usage with maven
+### Using with maven
 ````xml
 <project>
   <dependencies>
@@ -44,3 +44,4 @@ implementation 'de.businesscode.bcdui:bcd-ui-jsptaglib:5.5.0-SNAPSHOT'
   </dependencies>
 </project>
 ````
+<small>5.5.0 published at 2021-05-31 18:58:13</small>
