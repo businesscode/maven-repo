@@ -44,4 +44,4 @@ implementation 'de.businesscode.bcdui:bcd-ui-jsptaglib:5.5.0-SNAPSHOT'
   </dependencies>
 </project>
 ````
-<small>5.5.0 published at 2021-05-31 18:58:13</small>
+<small>5.5.0 published at 2021-06-15 12:36:26</small>
