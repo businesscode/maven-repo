@@ -6,6 +6,7 @@ For more information, please have a look at
 
 - GitHub page https://github.com/businesscode/BCD-UI
 - Documentation https://businesscode.github.io/BCD-UI-Docu
+- Release notes https://github.com/businesscode/BCD-UI/blob/master/Docu/releaseNotes.adoc
 - Tutorial https://businesscode.github.io/BCD-UI-Docu/tutorial/index.html
 
 ### Using with gradle
@@ -25,7 +26,7 @@ dependencies {
     }
   }
   implementation 'de.businesscode.bcdui:bcd-ui-core:5.5.0-SNAPSHOT'
-  implementation 'de.businesscode.bcdui:bcd-ui-theme-bcd:5.5.-SNAPSHOT'
+  implementation 'de.businesscode.bcdui:bcd-ui-theme-bcd:5.5.0-SNAPSHOT'
 
   // Adding Postgres JDBC, use the appropriate driver for your database 
   implementation 'org.postgresql:postgresql:42.1.4'
@@ -35,7 +36,7 @@ dependencies {
 
 When using jsp, please also add
 ```groovy
-implementation 'de.businesscode.bcdui:bcd-ui-jsptaglib:_replace_version_-SNAPSHOT'
+implementation 'de.businesscode.bcdui:bcd-ui-jsptaglib:5.5.0-SNAPSHOT'
 ```
 
 ### Using with maven
@@ -45,12 +46,12 @@ implementation 'de.businesscode.bcdui:bcd-ui-jsptaglib:_replace_version_-SNAPSHO
     <dependency>
       <groupId>de.businesscode.bcdui</groupId>
       <artifactId>bcd-ui-core</artifactId>
-      <version>_replace_version_</version>
+      <version>5.5.0</version>
     </dependency>
     <dependency>
       <groupId>de.businesscode.bcdui</groupId>
       <artifactId>bcd-ui-theme-bcd</artifactId>
-      <version>_replace_version_</version>
+      <version>5.5.0</version>
     </dependency>
   </dependencies>
 </project>
@@ -58,4 +59,4 @@ implementation 'de.businesscode.bcdui:bcd-ui-jsptaglib:_replace_version_-SNAPSHO
 
 BCD-UI is open-source licensed under Apache-2.0, powered by BusinessCode GmbH, Germany
 
-<small>_replace_version_ published at _replace_date_</small>
+<small>5.5.0 published at 2021-07-23 16:15:23</small>
