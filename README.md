@@ -75,4 +75,4 @@ implementation 'de.businesscode.bcdui:bcd-ui-jsptaglib:6.0.0-SNAPSHOT'
 
 BCD-UI is open-source licensed under Apache-2.0, powered by BusinessCode GmbH, Germany
 
-<small>6.0.0 published at 2026-05-04 14:21:29</small>
+<small>6.0.0 published at 2026-10-06 10:21:43</small>

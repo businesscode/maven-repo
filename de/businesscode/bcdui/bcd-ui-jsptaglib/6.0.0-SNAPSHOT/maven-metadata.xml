@@ -3,21 +3,21 @@
   <groupId>de.businesscode.bcdui</groupId>
   <artifactId>bcd-ui-jsptaglib</artifactId>
   <versioning>
-    <lastUpdated>20260504122128</lastUpdated>
+    <lastUpdated>20261006082142</lastUpdated>
     <snapshot>
-      <timestamp>20260504.122128</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20261006.082142</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>6.0.0-20260504.122128-1</value>
-        <updated>20260504122128</updated>
+        <extension>jar</extension>
+        <value>6.0.0-20261006.082142-2</value>
+        <updated>20261006082142</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>6.0.0-20260504.122128-1</value>
-        <updated>20260504122128</updated>
+        <extension>pom</extension>
+        <value>6.0.0-20261006.082142-2</value>
+        <updated>20261006082142</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
